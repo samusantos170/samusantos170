@@ -5,5 +5,4 @@ Sou Samoel, sou graduado em Geografia, e estou cursando o curso tecnólogo em De
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samusantos170)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samusantos170)](https://github.com/anuraghazra/github-readme-stats)
